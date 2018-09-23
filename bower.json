@@ -1,0 +1,22 @@
+{
+  "name": "nodekb",
+  "description": "Simple knowledgebase app",
+  "main": "app.js",
+  "authors": [
+    "Dennis Gabeler"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dcgab/nodekb",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
